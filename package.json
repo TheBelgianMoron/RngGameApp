@@ -1,0 +1,16 @@
+{
+  "name": "rng-aura",
+  "version": "0.1.0",
+  "private": true,
+  "description": "RNG Aura rolling game — browser, desktop (Tauri), and Android (Capacitor) ready",
+  "scripts": {
+    "dev":     "vite",
+    "build":   "tsc && vite build",
+    "preview": "vite preview",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "vite":       "^5.2.12"
+  }
+}
